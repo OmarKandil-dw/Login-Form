@@ -87,7 +87,7 @@ body {
 .login {
 	width: 320px;
 	padding: 30px;
-	padding-top: 156px;
+	padding-top: 100px;
 }
 
 .login__field {
@@ -101,6 +101,11 @@ body {
 	color: #7875B5;
 }
 
+.login__image img{
+    width: 40%;
+    margin-left: 40px;
+
+}
 .login__input {
 	border: none;
 	border-bottom: 2px solid #D1D1D4;
